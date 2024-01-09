@@ -27,3 +27,28 @@ dev = {file = ['requirements_dev.txt']}
 line-length = 120
 select = ["I"]
 
+
+            git rm -r --cached 'train_target_0.pt'
+            git commit -m "stop tracking train_target_0.pt" 
+            git rm -r --cached 'train_target_1.pt'
+            git commit -m "stop tracking train_target_1.pt" 
+            git rm -r --cached 'train_target_2.pt'
+            git commit -m "stop tracking train_target_2.pt" 
+            git rm -r --cached 'train_target_3.pt'
+            git commit -m "stop tracking train_target_3.pt" 
+                        git rm -r --cached 'train_target_4.pt'
+            git commit -m "stop tracking train_target_4.pt" 
+                        git rm -r --cached 'train_target_5.pt'
+            git commit -m "stop tracking train_target_5.pt" 
+            
+                        git rm -r --cached 'train_images_6.pt'
+            git commit -m "stop tracking train_images_6.pt" 
+            git rm -r --cached 'train_images_7.pt'
+            git commit -m "stop tracking train_images_7.pt" 
+             git rm -r --cached 'train_images_8.pt'
+            git commit -m "stop tracking train_images_8.pt" 
+            git rm -r --cached 'train_images_0.pt'
+            git commit -m "stop tracking train_images_0.pt" 
+            git rm -r --cached 'train_images_0.pt'
+            git commit -m "stop tracking train_images_0.pt" 
+                             
