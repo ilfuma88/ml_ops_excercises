@@ -64,6 +64,7 @@ started with Machine Learning Operations (MLOps).
 
 
 #### how to run ######
+--pip install -e . in the beginning
 
 --initialize dataset
 python ml_ops_cookie/data/make_dataset.py
